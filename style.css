@@ -73,42 +73,26 @@
  }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #Barrasuperior{
 
     background-color: grey;
-    height: 50px;
-    width: 180px;
-}
+    align-items: center;
+    gap: 10px;
+    float: left;
+ }
+
 
 .sapic{
 
-        display:flex
-        font-size: small;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-style:initial;
         white-space:enabled;
-         gap: 15px;
-        align-items: center;
-        
-        
-        
+        white-space:nowrap;
+             
 }          
 .sapic img{
 
-    width: 30px;
+    width: 40px;
     height: 20px;
-    vertical-align:middle;
+
     
 }   
