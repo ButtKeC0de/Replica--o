@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  #fileira_01{
     display: flex;
  }
@@ -24,7 +23,6 @@
      border-radius: 20px;
  }
 
-.
 
  
 
@@ -33,34 +31,26 @@
 
 
 
-
-=======
- 
->>>>>>> d8cd80a9f392d0b7f45dc788c4de4a34994a0074
-#Barrasuperior{
-
+ #Barrasuperior{
+    display: flex;
     background-color: grey;
-    height: 50px;
-    width: 180px;
-}
+    align-items: center;
+    gap: 10px;
+    float: left;
+ }
+
 
 .sapic{
 
-        display:flex
-        font-size: small;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-style:initial;
         white-space:enabled;
-         gap: 15px;
-        align-items: center;
-        
-        
-        
+        white-space:nowrap;
+             
 }          
 .sapic img{
 
-    width: 30px;
+    width: 40px;
     height: 20px;
-    vertical-align:middle;
+
     
 }   
