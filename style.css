@@ -1,4 +1,27 @@
+ #fileira_01{
+    display: flex;
+ }
+
+ #fileira_02{
+    display: flex;
+ }
+
  
+ .Bloco_01{
+    background-color: rgb(118, 141, 184);
+    width: 1350px;
+    height: 285px;
+    border-radius: 20px;
+    display: flex;
+ }
+
+ .Bloco_02{
+    margin-left: 20px;
+     background-color: rgb(118, 141, 184);
+     width: 520px;
+     height: 285px;
+     border-radius: 20px;
+ }
  
 
 
