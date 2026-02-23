@@ -1,0 +1,27 @@
+ 
+ 
+
+
+
+
+
+
+
+#Barrasuperior{
+
+
+
+}
+
+.sapic{
+
+        display: flex;
+        font: size 10px;
+        
+}
+.sapic img{
+
+    width: 20px;
+    height: 10px;
+    
+}
