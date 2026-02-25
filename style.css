@@ -14,16 +14,89 @@
    top: 25px;
    left: 25px;
  }
-
  .textos{
    width: 3000px;
  }
+ .Frases_fileira3bloco2{
+   position: relative;
+   top: 130px;
+   right: 100px;
+   align-items: center;
+ }
+ .Fotos_fileira3bloco2{
+   width: 105px;
+   height: 110px;
+   margin: 5px;
+   align-items: center;
+ }
+ .Fileira1_bloco2{
+   background-color:rgb(249, 250, 255);
+   width: 500px;
+   margin: 10px;
+   height: 50px;
+   border-radius: 20px;
+   position: relative;
+   top: 60px;
+ }
+.Fileira2_bloco1{
+   background-color:rgb(249, 250, 255);
+   width: 220px;
+   height: 230px;
+   border-radius: 20px;
+   position: relative;
+   top: 80px; 
+   margin: 10px;
+}
+
+.Fileira2_bloco2{
+   background-color:rgb(249, 250, 255);
+   width: 500px;
+   margin: 10px;
+   height: 50px;
+   border-radius: 20px;
+   position: relative;
+   top: 50px;
+
+}
+
+ .Fileira3_bloco1{
+   background-color:rgb(249, 250, 255);
+   width: 1330px;
+   margin: 10px;
+   height: 70px;
+   border-radius: 20px;
+   position: relative;
+   top: 30px;
+ }
+
+
+ #Texto_bloco6{
+   display: flex;
+   top: 150px;
+ }
+   #Parte_de_cima06{
+      
+   }
+ #Parte_de_baixo06{
+   display: flex;
+   height: 150px;
+ }
+ .Fileira3_bloco2{
+   display: flex;
+   background-color:rgb(249, 250, 255);
+   width: 180px;
+   height: 190px;
+   margin: 10px; margin-top: 100px;
+   border-radius: 20px;
+ }
+
+
 
 
  .Bloco_01{
     background-color: rgb(118, 141, 184);
     width: 1350px;
-    height: 280px;
+    height: 340px;
     border-radius: 20px;
     display: flex;
  }
@@ -32,16 +105,17 @@
     margin-left: 20px;
      background-color: rgb(118, 141, 184);
      width: 520px;
-     height: 280px;
+     height: 340px;
      border-radius: 20px;
  }
 
  .bloco_03{
     background-color: rgb(118, 141, 184);
     width: 1350px;
-    height: 280px;
+    height: 340px;
     border-radius: 20px;
     margin-top: 20px;
+    display: flex;
  }
 
  .bloco_04{
@@ -49,7 +123,7 @@
      margin-left: 20px;
      background-color: rgb(118, 141, 184);
      width: 520px;
-     height: 280px;
+     height: 340px;
      border-radius: 20px;
 
  }
@@ -57,7 +131,7 @@
  .bloco_05{
     background-color: rgb(118, 141, 184);
     width: 1350px;
-    height: 280px;
+    height: 340px;
     border-radius: 20px;
     margin-top: 20px;
  }
@@ -67,9 +141,8 @@
      margin-left: 20px;
      background-color: rgb(118, 141, 184);
      width: 520px;
-     height: 280px;
+     height: 340px;
      border-radius: 20px;
-
  }
 
 
