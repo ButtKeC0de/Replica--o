@@ -1,4 +1,5 @@
- #fileira_01{
+
+#fileira_01{
     display: flex;
  }
 
@@ -74,9 +75,7 @@
    display: flex;
    top: 150px;
  }
-   #Parte_de_cima06{
-      
-   }
+
  #Parte_de_baixo06{
    display: flex;
    height: 150px;
@@ -144,40 +143,54 @@
      height: 340px;
      border-radius: 20px;
  }
+   header{
+      background-color:rgb(161, 157, 157)  ;
+      width: 1950px ; 
+   }
+   #barra_superior{
+      background-color:rgb(161, 157, 157);
+      align-items: center;
+    white-space:nowrap ;
+    width: 1950px;
 
+   }
 
+   #barra_navegacao{
+      border: 2px solid rgb(0, 0, 0);
+      background-color:rgb(197, 169, 8);
+      width: 1950px;
+   }
 
+.bar {
+      gap: 20px;
+      display: flex;
+   }
 
+.oi{
+   background-color:rgb(161, 157, 157);
+      display: flex;
+      gap: 10px   ;
 
+   }
+.oi p{
 
+   border: 2px solid ;
+      border-color: black;
+}
 
+   .barra_lateral{
 
+      border: 10px solid;
+      height: 500px;
+   }
+   .home{
 
+ border: 10px solid;
+      height: 500px; ;
 
+   }
+   .homes{
 
+     display: flex;
 
-
-
-#Barrasuperior{
-
-    background-color: grey;
-    align-items: center;
-    gap: 10px;
-    float: left;
- }
-
-
-.sapic{
-
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        white-space:enabled;
-        white-space:nowrap;
-             
-}          
-.sapic img{
-
-    width: 40px;
-    height: 20px;
-
-    
-}   
+   }
